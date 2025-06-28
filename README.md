@@ -54,7 +54,6 @@ Business Communication: Translating data insights into actionable business recom
 
 📫 Contact
 Ritik Singh Chauhan
-📧 ritiksinghchauhan62675@gmail.com
-🔗 LinkedIn
-🔗 GitHub
-
+📧 Email: ritiksinghchauhan62675@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/ritik-singh-chauhan
+🔗 GitHub: https://github.com/RSChauhan-27
